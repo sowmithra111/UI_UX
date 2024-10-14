@@ -1,0 +1,18 @@
+                                           V.S.B College of Engineering and Technical Campus 
+
+                                                                  Team Members
+
+                                                                     1. Subhashini N
+                                                                     2. Sowmithra K
+                                                                     3. Abinaya K
+                                                                     4. Prasitha P
+
+                                            Application  : Choco Crave(Taste Of Joy)
+
+                                            Description  :  Our app isn't just about buying chocolate,
+                                                                        it's about sharing the joy of chocolate with  others. 
+
+                                            Projects        :  1. Sketch
+                                                                    2. Low Fedility
+                                                                    3. High Fedility
+                                                                    4. UI Design
